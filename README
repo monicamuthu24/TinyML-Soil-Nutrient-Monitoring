@@ -1,0 +1,38 @@
+# TinyML-Based Hybrid Calibration Framework for Soil Nutrient Monitoring in Precision Farming
+
+## Project Overview
+
+This project presents a TinyML-based soil nutrient monitoring system for precision farming. The system uses an Arduino Uno (ATmega328), NPK sensor, soil moisture sensor, and temperature sensor to collect soil parameters.
+
+Machine learning techniques are used for sensor data analysis and hybrid calibration to improve the estimation of soil nutrient values.
+
+## Hardware
+
+- Arduino Uno (ATmega328)
+- NPK Sensor
+- Soil Moisture Sensor
+- Temperature Sensor
+
+## Technologies Used
+
+- Arduino IDE
+- Python
+- Jupyter Notebook
+- Machine Learning
+- TinyML
+
+## Project Objectives
+
+- Monitor soil nutrient parameters in real time
+- Collect and process soil sensor data
+- Apply sensor calibration techniques
+- Develop a lightweight machine learning model suitable for edge deployment
+- Improve soil nutrient estimation for precision agriculture
+
+## Team
+
+Team Size: 3
+
+## Project Status
+
+Prototype developed and tested.
